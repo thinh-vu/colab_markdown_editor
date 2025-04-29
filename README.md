@@ -1,8 +1,23 @@
 # Colab Markdown Editor
 
-[![PyPI version](https://img.shields.io/pypi/v/colab_markdown_editor.svg)](https://pypi.org/project/colab_markdown_editor)
+<div id="badges" align="center">
+    <a href="https://pypi.org/project/colab_markdown_editor">
+        <img src="https://img.shields.io/pypi/v/colab_markdown_editor.svg" alt="vnstock download badge"/>
+    </a>
+    <a href="https://pypi.org/project/colab_markdown_editor/">
+        <img src="https://img.shields.io/pypi/dm/colab_markdown_editor?label=downloads&style=flat" alt="colab_markdown_editor download badge"/>
+    </a>
+    <a target="_blank" href="https://colab.research.google.com/github/thinh-vu/colab_markdown_editor/blob/dev/colab_markdown_editor.ipynb">
+      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
+    <a href="https://codespaces.new/thinh-vu/colab_markdown_editor">
+      <img src="https://github.com/codespaces/badge.svg" height="20" />
+    </a>
+</div>
 
 > An **interactive Markdown editor** tailored exclusively for **Google Colab** notebooks. Edit, preview, and manage local `.md` files directly within Colab’s UI—no external apps required.
+
+![colab_markdown_editor](assets/colab_markdown_editor.png)
 
 ---
 
