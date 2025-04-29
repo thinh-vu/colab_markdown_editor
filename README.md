@@ -10,9 +10,6 @@
     <a target="_blank" href="https://colab.research.google.com/github/thinh-vu/colab_markdown_editor/blob/main/dev/colab_markdown_editor.ipynb?hl=en">
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
-    <a href="https://codespaces.new/thinh-vu/colab_markdown_editor">
-      <img src="https://github.com/codespaces/badge.svg" height="20" />
-    </a>
 </div>
 
 > An **interactive Markdown editor** tailored exclusively for **Google Colab** notebooks. Edit, preview, and manage local `.md` files directly within Colab’s UI—no external apps required.
