@@ -6,7 +6,7 @@ with open("README.md", encoding="utf-8") as f:
 
 setup(
     name="colab_markdown_editor",
-    version="1.0.1",
+    version="1.0.2",
     author="Thinh Vu",
     author_email="support@vnstocks.com",
     description="Interactive Markdown Editor for Google Colab Notebooks",
@@ -24,7 +24,8 @@ setup(
         ]
     },
     classifiers=[
-        "Development Status :: 4 - Beta",
+        "Development Status :: 5 - Production/Stable",
+        "Framework :: IPython",
         "Intended Audience :: Developers",
         "Environment :: Console",
         "Operating System :: OS Independent",
