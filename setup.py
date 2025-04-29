@@ -12,7 +12,7 @@ setup(
     description="Interactive Markdown Editor for Google Colab Notebooks",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/vnstock-hq/colab_markdown_editor",
+    url="https://github.com/thinh-vu/colab_markdown_editor",
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
